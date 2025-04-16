@@ -1,0 +1,3 @@
+{"text": "A social media app should include User Profiles, Posts, Comments. Tables: users, posts, comments."}
+{"text": "An inventory system includes Stock Tracking, Supplier Management. Tables: items, stock, suppliers."}
+{"text": "A ride-sharing app should include Booking, Driver, and Payment modules. Tables: rides, users, drivers, payments."}
