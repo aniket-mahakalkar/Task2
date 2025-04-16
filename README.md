@@ -46,8 +46,8 @@ A Streamlit-based tool powered by OpenAI's GPT-4 that helps you convert high-lev
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ai-architecture-assistant.git
-cd ai-architecture-assistant
+git clone https://github.com/aniket-mahakalkar/Task3-AI-Architecture.git
+cd Task3-AI-Architecture.git
 
 # Install dependencies
 pip install -r requirements.txt
